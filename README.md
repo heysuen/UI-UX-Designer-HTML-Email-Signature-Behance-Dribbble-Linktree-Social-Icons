@@ -1,4 +1,4 @@
-# HTML Email Signature for UI/UX Designers to showcase portfolio links
+# HTML Email Signature for UI/UX Designers to showcase portfolio
 I created my first HTML email signature to improve my personal branding as a UI/UX Designer. 💻🖱
 
 This is the design I came up with:
